@@ -1,0 +1,9 @@
+build/
+.vs/
+docs/
+*.vscode*
+dist/
+.idea/
+
+__pycache__
+python_wrapper/innopy10/
